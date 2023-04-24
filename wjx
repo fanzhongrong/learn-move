@@ -1,0 +1,62 @@
+Skip to content
+fanzhongrong
+/
+learn-move
+Public
+forked from icodezjb/learn-move
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Update README.md
+ main
+@icodezjb
+icodezjb committed on Sep 6, 2022
+1 parent 516eb84
+commit 56d78f2
+Showing 1 changed file with 7 additions and 7 deletions.
+  14  
+README.md
+@@ -101,21 +101,21 @@
+   https://github.com/MystenLabs/awesome-move
+9. ****Move Tutorial:****
+9.  ****Move Tutorial:****
+   https://github.com/move-language/move/tree/main/language/documentation/tutorial
+    https://github.com/move-language/move/tree/main/language/documentation/tutorial
+10. ****明星公链Aptos初体验--发送交易和构建合约****
+   https://learnblockchain.cn/article/4466
+    https://learnblockchain.cn/article/4466
+   ****无需合约，在Aptos上发行一个nft****
+    ****无需合约，在Aptos上发行一个nft****
+   https://learnblockchain.cn/article/4473
+    https://learnblockchain.cn/article/4473
+   ****全方位讲解Move开发测试部署工具栈****
+    ****全方位讲解Move开发测试部署工具栈****
+   https://learnblockchain.cn/article/3005
+    https://learnblockchain.cn/article/3005
+11. **[Global Storage - Operators](https://move-language.github.io/move/global-storage-operators.html#global-storage---operators)**
+0 comments on commit 56d78f2
+Add a quote, <Ctrl+Shift+.>
+Add code, <Ctrl+e>
+Add a link, <Ctrl+k>
+Directly mention a user or team
+Reference an issue, pull request, or discussion
+Add saved reply
+Leave a comment
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Update README.md · fanzhongrong/learn-move@56d78f2
